@@ -3,5 +3,5 @@
 
 main(){
 
-cout<<"Hello World";
+cout<<"Namaste Dunia";
 };
