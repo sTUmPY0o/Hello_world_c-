@@ -1,2 +1,2 @@
-# Hello_world_c-
-Print Hello world
+# Hello_world_C-
+Print Hello World
